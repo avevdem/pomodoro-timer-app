@@ -1,6 +1,7 @@
 # ⏱️ Pomodoro Timer App (Study Focus Timer)
 
 A minimalist, single-page Pomodoro timer web app built with HTML, CSS, and vanilla JavaScript. Designed to help you boost productivity with custom sounds and a sleek UI.
+<img width="1011" height="894" alt="Icon" src="https://github.com/user-attachments/assets/6b65ff6f-bb9f-480a-b912-a84b90c35d40" />
 
 ---
 
