@@ -38,7 +38,7 @@ pomodoro-timer-app/
 ## 🚀 Getting Started
 
 ### 📌 Live Demo  
-*(You can deploy on GitHub Pages or any static hosting platform)*
+https://pomodoro-timer-pr.netlify.app/
 
 ### 📥 Run Locally
 
