@@ -46,7 +46,7 @@ pomodoro-timer-app/
 git clone https://github.com/your-username/pomodoro-timer-app.git
 cd pomodoro-timer-app
 open index.html
-
+```
 ---
 
 ## 📝 License
